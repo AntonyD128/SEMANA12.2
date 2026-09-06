@@ -1,0 +1,51 @@
+[
+    {
+        "codigo": "004",
+        "nombre": "CASUELA",
+        "categoria": "COMIDA",
+        "precio": 4.3,
+        "stock": 10
+    },
+    {
+        "codigo": "001",
+        "nombre": "HAMBURGUESA",
+        "categoria": "COMIDA",
+        "precio": 3.2,
+        "stock": 1
+    },
+    {
+        "codigo": "002",
+        "nombre": "PIZZA",
+        "categoria": "COMIDA",
+        "precio": 1.78,
+        "stock": 6
+    },
+    {
+        "codigo": "003",
+        "nombre": "ARROZ MARINERO",
+        "categoria": "COMIDA",
+        "precio": 9.0,
+        "stock": 10
+    },
+    {
+        "codigo": "007",
+        "nombre": "COMBO BIXBOX",
+        "categoria": "COMIDA",
+        "precio": 15.75,
+        "stock": 20
+    },
+    {
+        "codigo": "009",
+        "nombre": "CEVICHE DE CAMARON",
+        "categoria": "COMIDA",
+        "precio": 3.5,
+        "stock": 10
+    },
+    {
+        "codigo": "010",
+        "nombre": "CALDO DE GALLINA",
+        "categoria": "COMIDA",
+        "precio": 3.75,
+        "stock": 2
+    }
+]
